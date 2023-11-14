@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  --main-color: white;
+  --secondary-color: black;
+}
+.parent-section {
+  background: radial-gradient(
+    92.19% 89.74% at 2.27% 91.27%,
+    rgba(31, 169, 17, 0.81) 17.21%,
+    #2f15d0 64.58%,
+    rgba(25, 25, 26, 0.96) 100%
+  );
+
+  padding: 0px 31px;
+}
+.cursor {
+  cursor: pointer;
+}
+
+.first-section-left h3 {
+  color: var(--main-color);
+}
+
+p {
+  font-size: 15px;
+  color: var(--main-color);
+  opacity: 0.7;
+}
+
+.notification img {
+  height: 34px;
+}
+
+/* form styling */
+
+.form-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-parent h2 {
+  color: var(--main-color);
+}
+
+.form-input,
+button {
+  width: 75%;
+}
+
+.form-input {
+  margin: 20px 0px;
+  padding: 8px 12px;
+  border: 1px solid #e5e5e6;
+  background: var(--main-color);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.04), 0 4px 10px 0 rgba(0, 0, 0, 0.04);
+  border-radius: 8px;
+  font-weight: 500;
+}
+button {
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid var(--secondary-color);
+  background: var(--secondary-color);
+}
+.alert-text {
+  font-weight: 600;
+  font-size: 14px;
+}
+/* cards styling */
+
+.cards {
+  border-radius: 8px;
+  border: 1px solid var(--main-color);
+  background: linear-gradient(
+      180deg,
+      hsla(0, 0%, 100%, 0.2) 27.5%,
+      rgba(22, 93, 255, 0.16) 157.71%
+    ),
+    var(--main-color);
+  box-shadow: 0 0.7px 0.7px 0 rgba(0, 0, 0, 0.04),
+    0 2.8px 7px 0 rgba(0, 0, 0, 0.04);
+  padding: 10px 15px;
+  width: 100%;
+}
+
+.card-input {
+  border: 0.7px solid rgba(212, 212, 212, 1);
+
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.react-multiple-carousel__arrow {
+  display: none !important;
+}
+.cards-body p {
+  color: var(--secondary-color);
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.second-section-right h2 {
+  color: var(--main-color);
+}
+
+.chartImg {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* testimonial style */
+
+.testimonials h4 {
+  color: var(--main-color);
+  border-bottom: 1px solid rgba(229, 229, 230, 0.5);
+}
+.footer-card {
+  cursor: pointer;
+  padding: 10px;
+  background: var(--main-color);
+  width: 100%;
+  border-radius: 8px;
+}
+.footer-body p {
+  font-size: 14px;
+}
+.footer-header span {
+  font-size: 12px;
+}
+.footerlogo {
+  padding-top: 100px;
+}
+.footerlogo img {
+  width: 100%;
+  height: 48px;
+}
+
+.footer-card {
+  height: 134px;
+}
