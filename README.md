@@ -58,11 +58,10 @@ Jest - JavaScript Testing Framework
 @testing-library/react - Testing utilities for React
 @testing-library/jest-dom - Jest matchers for DOM testing
 
-![d6nqy4 csb app_(iPhone 6_7_8 Plus) (1)](https://github.com/Shobhitsky1144/Reactjs-Assignment/assets/72183704/688fc021-c65b-4fd9-89a8-39a70a2290f9)
+![screencapture-d6nqy4-csb-app-2023-11-14-11_22_13](https://github.com/Shobhitsky1144/Reactjs-Assignment/assets/72183704/5c9e90b8-d7c5-462b-856a-ccec7fd73ee1)
 
-![d6nqy4 csb app_(iPad) (1)](https://github.com/Shobhitsky1144/Reactjs-Assignment/assets/72183704/85d2c2e3-660c-4993-9bc0-eb9502e950ad)
+![d6nqy4 csb app_(iPhone 6_7_8 Plus) (1)](https://github.com/Shobhitsky1144/Reactjs-Assignment/assets/72183704/d831b9ac-0817-48e0-b024-72241c324e1d)
 
-[
-![screencapture-d6nqy4-csb-app-2023-11-14-11_22_13](https://github.com/Shobhitsky1144/Reactjs-Assignment/assets/72183704/8e0fb18f-b204-4c9f-821d-06936cc4cb35)
-](url)
+![d6nqy4 csb app_(iPad) (1)](https://github.com/Shobhitsky1144/Reactjs-Assignment/assets/72183704/3aeeec22-8cf9-43f4-b766-3f69d4f70233)
+
 
